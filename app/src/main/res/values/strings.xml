@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Atividade IMC AV1.1</string>
+    <string name="digite_seu_peso_ex_89">Digite seu peso (Ex. 89)</string>
+    <string name="digite_sua_altura_ex_1_76">Digite sua altura (Ex. 1.76)</string>
+    <string name="calcular_imc">Calcular IMC</string>
+</resources>
